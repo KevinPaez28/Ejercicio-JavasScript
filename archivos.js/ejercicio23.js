@@ -10,4 +10,4 @@ function Velocidad_ms(velocidad , tiempo){
 }
 velocidad = parseInt(prompt("Ingrese la velocidad del carro en Km: "))
 tiempo = parseInt(prompt("Ingrese el tiempo que demoro el carro: "))
-Velocidad_ms(velocidad,tiempo)
+Velocidad_ms(velocidad, tiempo)
