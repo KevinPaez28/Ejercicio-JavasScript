@@ -6,4 +6,4 @@ function Edad(madre, hijo) {
 }
 let madre = parseInt(prompt("Ingrese la edad de la madre"))
 let hijo = parseInt(prompt("Ingrese la edad del hijo"))
-Edad(madre, hijo);
+Edad(madre, hijo)
