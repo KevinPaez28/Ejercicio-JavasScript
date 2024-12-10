@@ -14,6 +14,6 @@ function Resta(primer_numero , segundo_numero) {
   }
   
 }
-primer_numero=float(input("Digite el un numero:"))
-segundo_numero=float(input("Digite otro numero:"))
+primer_numero=parseInt(prompt("Digite el un numero:"))
+segundo_numero=parseInt(prompt("Digite otro numero:"))
 Resta(primer_numero , segundo_numero)
