@@ -13,4 +13,4 @@ do {
   }
 } while (palabra !== "salir");
 
-alert(`Las palabras ingresadas fueron: ${palabras.join(", ")}`);
+alert(`Las palabras ingresadas fueron: ${palabras.join(", ")}`)
