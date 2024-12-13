@@ -1,4 +1,4 @@
-
+alert("• Escribe una función que tome una cadena y devuelva una nueva cadena sin las vocales.")
 function eliminarVocales(cadena) {
     let resultado = '';
     let i = 0;
